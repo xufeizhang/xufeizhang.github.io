@@ -1,0 +1,143 @@
+.container {
+  max-width: 1440px;
+  background: #fcf7ea;
+}
+
+.carousel-inner, .carousel-item {
+  height: 100%;
+}
+
+.carousel-inner img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.big-card {
+  border-radius: 20px;
+  background: #f2e4cc;
+  padding: 12px;
+  margin: 20px 20px 0;
+  position: relative;
+}
+
+.card {
+  margin: 20px 20px 0;
+  border-color: white;
+  border-width: 5px;
+  background: rgba(255, 255, 255, 0);
+}
+
+.card-body {
+  padding: 12px;
+  position: relative;
+}
+
+iframe {
+  border-radius: 10px;
+}
+
+h3 {
+  margin-top: 16px;
+}
+
+ul {
+  padding-left: 16px;
+  margin-top: 16px;
+}
+
+.badge {
+  margin-right: 5px;
+}
+
+.big-card a {
+  margin-right: 16px;
+}
+
+.number {
+  position: absolute;
+  right: 16px;
+  bottom: 4px;
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+.big-card .number {
+  color: white;
+}
+
+.card .number {
+  color: #f2e4cc;
+}
+
+.caption {
+  margin-bottom: 0;
+  margin-top: 5px;
+  font-style: italic;
+  font-size: 14px;
+}
+
+.figure {
+  max-width: 800px;
+  margin: 40px 0 50px;
+  padding: 0 8px;
+}
+
+#footer {
+  margin: 0 -12px;
+  background-image: linear-gradient(135deg, #3e3825, #8d7a6a);
+  color: white;
+  font-size: 14px;
+}
+
+.research {
+  background-color: #00e2e1;
+}
+
+.game {
+  background-color: #ef6c5f;
+}
+
+.media {
+  background-color: #eb985a;
+}
+
+.education {
+  background-color: #46b2e4;
+}
+
+.productivity {
+  background-color: #abe04e;
+}
+
+.entrepreneurship {
+  background-color: #598de5;
+}
+
+.internship {
+  background-color: #d15ee6;
+}
+
+.stem {
+  background-color: #5874a6;
+}
+
+.art {
+  background-color: #ad5a96;
+}
+
+.history {
+  background-color: #a78558;
+}
+
+.literature {
+  background-color: #ac5e5c;
+}
+
+.music {
+  background-color: #6da355;
+}
+
+.pe {
+  background-color: #4b96a4;
+}
+
